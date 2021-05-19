@@ -25,5 +25,5 @@ echo "Exponencial 2 ** 2" . (2 ** 2);
 //Variables variables
 $app = 'name';
 $name = 'platzi';
-echo $$app; //name
+echo $app; //name
 echo $$app; //platzi
