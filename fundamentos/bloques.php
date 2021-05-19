@@ -1,8 +1,8 @@
 <?php
 
-if (condition) {
+if ($a > $b) {
     # code...
-} elseif (condition) {
+} elseif ($a > $b) {
     # code...
 } else {
     # code...
