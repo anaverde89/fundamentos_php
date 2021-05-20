@@ -1,6 +1,6 @@
 .vscode/
-#composer/vendor
-#packs_composer/vendor
+# composer/vendor
+# packs_composer/vendor
 */vendor
 *.png
 *.jpeg
