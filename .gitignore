@@ -1,6 +1,8 @@
-*.pdf
 .vscode/
-composer/vendor
+#composer/vendor
+#packs_composer/vendor
+*/vendor
 *.png
 *.jpeg
 *.jpg
+*.pdf
